@@ -1,4 +1,5 @@
 #Adding Commnent for Github WebHook for node-todo-app
+#Adding Comment for Docker Compose
 FROM node:12.2.0-alpine
 WORKDIR app
 COPY . .
